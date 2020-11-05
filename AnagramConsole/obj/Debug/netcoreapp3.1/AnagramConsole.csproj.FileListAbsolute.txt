@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Anagram\AnagramConsole\bin\Debug\netcoreapp3.1\AnagramConsole.exe
+C:\Users\User\source\repos\Anagram\AnagramConsole\bin\Debug\netcoreapp3.1\AnagramConsole.deps.json
+C:\Users\User\source\repos\Anagram\AnagramConsole\bin\Debug\netcoreapp3.1\AnagramConsole.runtimeconfig.json
+C:\Users\User\source\repos\Anagram\AnagramConsole\bin\Debug\netcoreapp3.1\AnagramConsole.runtimeconfig.dev.json
+C:\Users\User\source\repos\Anagram\AnagramConsole\bin\Debug\netcoreapp3.1\AnagramConsole.dll
+C:\Users\User\source\repos\Anagram\AnagramConsole\bin\Debug\netcoreapp3.1\AnagramConsole.pdb
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.AssemblyInfo.cs
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.dll
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.pdb
+C:\Users\User\source\repos\Anagram\AnagramConsole\obj\Debug\netcoreapp3.1\AnagramConsole.genruntimeconfig.cache
